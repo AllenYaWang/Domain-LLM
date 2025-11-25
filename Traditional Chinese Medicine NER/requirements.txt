@@ -1,0 +1,9 @@
+torch
+transformers
+peft
+datasets
+accelerate
+bitsandbytes
+gradio
+scikit-learn
+trl
